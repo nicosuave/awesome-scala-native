@@ -28,4 +28,4 @@ Without further ado, here's a quick list of notable libraries currently availabl
 - [squants](https://github.com/typelevel/squants)
 
 ## Contributing
-Contributions are always welcome. Please submit pull requests with links to issues, add sections, disambiguate explanations, fix my fat-fingers, etc.
+Contributions are always welcome. Please submit pull requests, add sections, disambiguate explanations, fix my fat-fingers, etc.
