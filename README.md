@@ -7,6 +7,9 @@
 - [scala-native-example-app](https://github.com/lihaoyi/scala-native-example-app)
 - [scala-native-cli](https://github.com/densh/scala-native-cli/tree/3c863f4248a8b2e52211ee6dc15409f84558d44a)
 
+## Blog Posts
+- [Simple Command Line Tools with Scala Native](https://www.spantree.net/blog/2017/06/26/scala-native-for-cli-tools.html)
+
 ## Java Standard Library
 Some of the Java Standard library is being implemented in Scala Native to maintain compatability with existing Scala libraries. Implemented classes can be found [here](http://www.scala-native.org/en/latest/lib/javalib.html).
 
