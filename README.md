@@ -1,5 +1,4 @@
 # awesome-scala-native
-A community-managed resource for Scala Native resources. Please submit pull requests with links to issues, add sections, disambiguate explanations, fix my fat-fingers, etc.
 
 ## Scala Native
 [Official Website](http://www.scala-native.org/en/latest/)
@@ -27,3 +26,6 @@ Without further ado, here's a quick list of notable libraries currently availabl
 - [pprint](https://github.com/lihaoyi/PPrint)
 - [scallop](https://github.com/scallop/scallop)
 - [squants](https://github.com/typelevel/squants)
+
+## Contributing
+Contributions are always welcome. Please submit pull requests with links to issues, add sections, disambiguate explanations, fix my fat-fingers, etc.
