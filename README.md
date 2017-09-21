@@ -20,6 +20,7 @@ Without further ado, here's a quick list of notable libraries currently availabl
 - [shapeless](https://github.com/milessabin/shapeless)
 - [scopt](https://github.com/scopt/scopt)
 - [utest](https://github.com/lihaoyi/utest)
+- [fastparse](https://github.com/lihaoyi/fastparse)
 - [sourcecode](https://github.com/lihaoyi/sourcecode)
 - [fansi](https://github.com/lihaoyi/fansi)
 - [scalatags](https://github.com/lihaoyi/scalatags)
