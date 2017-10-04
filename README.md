@@ -13,6 +13,7 @@
 
 ### Talks
 - [Scala goes Native - Denys Shabalin](https://www.youtube.com/watch?v=KZejtgdniqc)
+- [Bootstrapping the Web with Scala Native - Richard Whaling](https://www.youtube.com/watch?v=-52HXQKwk5E)
 
 ### Blog Posts
 - [Simple Command Line Tools with Scala Native](https://www.spantree.net/blog/2017/06/26/scala-native-for-cli-tools.html)
