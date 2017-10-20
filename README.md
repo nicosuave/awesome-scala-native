@@ -27,7 +27,7 @@ Scaladex is my recommendation on finding libraries available for Scala Native. V
 
 Without further ado, here's a quick list of notable libraries currently available for Scala Native:
 
-- [dinosaur](https://github.com/rwhaling/dinosaur/stargazers) CGI-based web "framework"
+- [dinosaur](https://github.com/rwhaling/dinosaur) CGI-based web "framework"
 - [scalaz](https://github.com/scalaz/scalaz)
 - [shapeless](https://github.com/milessabin/shapeless)
 - [scopt](https://github.com/scopt/scopt)
